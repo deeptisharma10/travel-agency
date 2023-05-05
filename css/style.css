@@ -5,7 +5,7 @@ body {
 }
 
 .hero-container {
-  background: url("./istockphoto-1175450445-612x612.jpg");
+  background: url("../istockphoto-1175450445-612x612.jpg");
   background-position: 100%;
   background-size: cover;
   background-repeat: no-repeat;
